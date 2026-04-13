@@ -1,0 +1,4 @@
+baseURL = 'https://Daemon1-bit.github.io/'
+locale = 'zh-cn'
+title = '我的个人博客'
+theme='loficode-hugo-theme'
